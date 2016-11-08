@@ -1,12 +1,12 @@
 # Site settings
-title: "BIOINF 525"
+title: "BIOINF 524/525"
 email: bjgrant@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
-   Winter 2016 BIOINF525 course at the University of Michigan that 
+   Winter 2017 BIOINF524/525 course at the University of Michigan that 
    introduces students to the fundamental principles and practices 
    of bioinformatics, biostatistics and systems biology.  
-baseurl: "/bioinf525_w16" # the subpath of your site, e.g. /blog/
-url: "http://bioboot.github.io/bioinf525_w16" 
+baseurl: "/bioinf525_w17" # the subpath of your site, e.g. /blog/
+url: "http://bioboot.github.io/bioinf525_w17" 
 twitter_username: bioboot
 github_username:  bioboot
 

@@ -37,7 +37,7 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 <br>
 
 #### Lecture (2-1): **Framework for statistical analysis of biomedical data**
-- **Time**: 		Feb 9 (Tuesday), 2:30 - 4:00 PM
+- **Time**: 		Feb 7 (Tuesday), 2:30 - 4:00 PM
 - **Topics**: 
 Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
 - **Material**:  
@@ -47,7 +47,7 @@ We will be using R throughout this module to demonstrate data analyses concepts 
 <br>
 
 #### Lab (2-1): 	**Descriptive statistics and summarizing data**
-- **Time**: 		2:30 – 4:00 PM, Feb 11 (Thursday) or Feb 12, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Feb 9 (Thursday)
 - **Topics**:
 Introduction to R, probability distributions, quantifying central values and variability, quantifying association, graphical displays of data.
 - **Material**:  
@@ -69,7 +69,7 @@ Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor B
 
 
 #### Lecture (2-2): **Approaches to statistical estimation and testing**
-- **Time**: 		Feb 16 (Tuesday), 2:30 - 4:00 PM
+- **Time**: 		Feb 14 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, tests involving means, correlations, and log odds ratios, power.
 - **Material**:  
@@ -78,7 +78,7 @@ Estimation and standard errors, standard errors for means, correlations, and log
 <br>
 
 #### Lab (2-2): 	**Statistical estimation and hypothesis testing**
-- **Time**: 		2:30 – 4:00 PM, Feb 18 (Thursday) or Feb 19, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Feb 16 (Thursday)
 - **Topics**: 
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
 - **Material**:  
@@ -98,7 +98,7 @@ Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84
 <br>
 
 #### Lecture (2-3): **Analyses involving associations**
-- **Time**: 		Feb 23 (Tuesday), 2:30 - 4:00 PM
+- **Time**: 		Feb 21 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Pearson correlation, t-test, odds ratios, discussion of a research article
 - **Material**:  
@@ -107,7 +107,7 @@ Pearson correlation, t-test, odds ratios, discussion of a research article
 <br>
 
 #### Lab (2-3): 	**Pearson correlation, t-test, and log odds ratios**
-- **Time**: 		2:30 – 4:00 PM, Feb 25 (Thursday) or **Feb** 26, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Feb 23 (Thursday)
 - **Topics**:
 Tests based on Pearson correlation t-test, and log odds ratios
 - **Material**:  
@@ -125,7 +125,7 @@ Tests based on Pearson correlation t-test, and log odds ratios
 <br>
 
 #### Lecture (2-4): **Linear regression**
-- **Time**: 		Mar 8 (Tuesday), 2:30 - 4:00 PM
+- **Time**: 		Mar 7 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Single and multiple variable linear regression, Bonferroni correction, power for regression analysis
 - **Material**:  
@@ -134,7 +134,7 @@ Single and multiple variable linear regression, Bonferroni correction, power for
 <br>
 
 #### Lab (2-4): 	**Regression models**
-- **Time**: 		2:30 – 4:00 PM, Mar 10 (Thursday) or Mar 11, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Mar 9 (Thursday)
 - **Topics**:
 Fitting regression models for prediction and effect estimation, inference for regression effects, R^2, diagnostics, comparing models
 - **Material**:  
@@ -152,7 +152,7 @@ Fitting regression models for prediction and effect estimation, inference for re
 <br>
 
 #### Lecture (2-5): **Introduction to graphical methods for multivariate data analysis** 
-- **Time**: 		Mar 15 (Tuesday), 2:30 - 4:00 PM
+- **Time**: 		Mar 14 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Clustering methods, Multidimensional scaling and Principal component analysis
 - **Material**:  
@@ -162,7 +162,7 @@ Clustering methods, Multidimensional scaling and Principal component analysis
 <br>
 
 #### Lab (2-5): 	**Clustering and principal component analysis**
-- **Time**: 		2:30 – 4:00 PM, Mar 17 (Thursday) or Mar 18, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Mar 16 (Thursday)
 - **Topics**:
 Multivariate data, Heat maps and dendrograms, clustering methods, principal component analysis 
 - **Material**:  

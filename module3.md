@@ -32,7 +32,7 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 
 #### Lecture (3-1):	**Introduction to systems biology**  
 - **Instructor**: 	Dr. Gerry Higgins  
-- **Time**: 		Mar 22 (Tuesday), 2:30 - 4:00 PM  
+- **Time**: 		Mar 21 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
 - **Material**:  
@@ -47,7 +47,7 @@ Readings
 
 #### Lab (3-1): 	**Network analysis for systems biology**  
 - **Instructor**: 	Marci Brandenburg and Dr. Viji Nair  
-- **Time**: 		2:30 – 4:00 PM, Mar 24 (Thursday) or Mar 25, 10:30 - 12:00 PM, (Friday)  
+- **Time**: 		2:30 – 4:00 PM, Mar 23 (Thursday)  
 - **Topics**:  
 Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape, including the MetScape app, in addition to ConceptGen.  
 - **Material**:  
@@ -67,7 +67,7 @@ Supporting Files:
 
 #### Lecture (3-2): **Epigenome data mining to understand disease predisposition**  
 - **Instructor**: 	Dr. Stephen Parker  
-- **Time**: 		Mar 29 (Tuesday), 2:30 - 4:00 PM  
+- **Time**: 		Mar 28 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 For decades, substantial research efforts have focused on the <2% of the human genome that encodes proteins. Recent epigenome-based functional genomic analyses and genome-wide association studies (GWAS) together implicate non-coding DNA regulatory elements as critical regions influencing gene expression, risk for common diseases, variation in physiological traits, and evolution across species. Because they represent the convergent point of evolutionary, genetic, developmental, and environmental inputs, basal epigenomic signatures and their dynamic changes are central to understanding biological function. This lecture will explore epigenomic assays and bioinformatic analyses and how these approaches can help untangle disease mechanisms. 
 - **Material**:  
@@ -80,7 +80,7 @@ Readings
 
 #### Lab (3-2): 	**Epigenome profiling and disease links**  
 - **Instructor**: 	Dr. Stephen Parker  
-- **Time**: 2:30 – 4:00 PM, Mar 31 (Thursday) or Apr 1, 10:30 - 12:00 PM, (Friday)  
+- **Time**: 2:30 – 4:00 PM, Mar 30 (Thursday)  
 - **Topics**:  
 Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
 - **Material**:  
@@ -96,7 +96,7 @@ Students will learn how to computationally process epigenomic data, create inter
 
 #### Lecture (3-3): **Computational clinical decision support systems** 
 - **Instructor**:   Dr. Kayvan Najarian  
-- **Time**:         Apr 5 (Tuesday), 2:30 - 4:00 PM  
+- **Time**:         Apr 4 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Introduction to computational clinical decision support systems. Machine learning and its application to biomedical informatics.
 - **Material**:  
@@ -107,7 +107,7 @@ Lecture Slides: [PDF]({{ site.baseurl }}/class-material/Systems Biology for Clin
 
 #### Lab (3-3):     **WEKA for machine learning and feature analysis**  
 - **Instructor**:   Dr. Kayvan Najarian  
-- **Time**:         2:30 – 4:00 PM, Apr 7 (Thursday) or Apr 8, 10:30 - 12:00 PM, (Friday)  
+- **Time**:         2:30 – 4:00 PM, Apr 6 (Thursday)  
 - **Topics**:  
 Introduction to WEKA, using machine learning methods such as SVM, Random Forest, Neural Networks for simple examples in systems biology, using WEKA for feature extraction and analysis.  
 - **Material**:  
@@ -125,7 +125,7 @@ Supporting Files:
 
 #### Lecture (3-4): **Application of systems biology to translational medicine**  
 - **Instructor**: 	Dr. Matthias Kretzler  
-- **Time**: 		Apr 12 (Tuesday), 2:30 - 4:00 PM  
+- **Time**: 		Apr 11 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Integrating genome wide data sets with high-resolution clinical phenotypes, molecular marker definition, regulatory network generation in patient samples.  
 - **Material**:  
@@ -135,7 +135,7 @@ Integrating genome wide data sets with high-resolution clinical phenotypes, mole
 
 #### Lab (3-4): 	**Systems biology resources for translational medicine** 
 - **Instructor**: 	Felix Eichinger
-- **Time**: 		2:30 – 4:00 PM, Apr 14 (Thursday) or  Apr 15, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Apr 13 (Thursday)  
 - **Topics**:
 Introduction to web based systems biology resources including Oncomine and Nephromine.
 - **Material**:  
