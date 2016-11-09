@@ -48,6 +48,7 @@ We will be using R throughout this module to demonstrate data analyses concepts 
 
 <script async class="speakerdeck-embed" data-id="95cf77439df54785a9716718af8d05a0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+[Hands-on in class exercise](https://github.com/bioboot/web-2016/blob/gh-pages/class-material/R_basics.md).  
 <br>
 
 #### Lab (2-1): 	**Descriptive statistics and summarizing data**
