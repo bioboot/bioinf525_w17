@@ -15,7 +15,7 @@ We require an up-to-date web browser (current versions of [Chrome](https://www.g
 <br>
 
 **R and RStudio:**
-Module 2 will use R in order to demonstrate data analyses. R can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest version of R. As of course launch (Jan 16) the latest release (2015-08-14, Fire Safety) is R-3.2.2.
+Module 2 will use R in order to demonstrate data analyses. R can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest version of R. As of course launch (Jan 17) the latest release (2016-10-31, Sincere Pumpkin Patch) is R-3.3.2.
 
 We recommend using [RStudio](http://www.rstudio.com/products/rstudio/) desktop, a slick visual interface for R.
 
@@ -27,12 +27,7 @@ Note that we use R in this course for several reasons:
 - R is very popular in the field of bioinformatics, especially in certain sub-disciplines, like genomics and structural bioinformatics.  
 - R is very powerful. Furthermore, it is gaining new features every day. New statistical methods are often available first in R. 
 
-<br>
 
-**For motivated instructors only: Git and GitHub**  
-Git is a version control system that lets you track who made changes to what and when.  GitHub is a popular social code-hosting platform that greatly facilitates collaborative content development.  
-
-To learn more about the basics of Git and GitHub see [Day4 of our Biocomputing Bootcamp course](http://bioboot.github.io/web-2015/day4/).  For details on contributing to this course website via Git/GitHub please see this [README](https://github.com/bioboot/bioinf525_w16).
 
 <!--- Still to complete...
 ### Why this class

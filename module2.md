@@ -7,7 +7,7 @@ permalink: /module2/
 
 # Module 2. Introduction to Statistics in Bioinformatics
 
-Basic statistics as used in bioinformatics, especially standard statistical tests of significance and when they apply. Applications to genetics, experimental and observational medical data, as well as exploration of multiple testing issues that arise in bioinformatics and other experimental settings. NOTE: Dr. Kaciroti is the instructor for all Module 2 lectures and labs.
+Basic statistics as used in bioinformatics, especially standard statistical tests of significance and when they apply. Applications to genetics, experimental and observational medical data, as well as exploration of multiple testing issues that arise in bioinformatics and other experimental settings.  
 
 
   
@@ -41,8 +41,12 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 - **Topics**: 
 Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
 - **Material**:  
-[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.1.pdf)  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.1.pdf),  
+[Pre class screen cast](https://vimeo.com/151178510),  
 We will be using R throughout this module to demonstrate data analyses concepts and best practices.  In preparation for our first lab session we are requesting that you all complete the free online interactive learning tutorial [“TryR” (http://tryr.codeschool.com)](http://tryr.codeschool.com).  This will take you through a gentle introduction to R syntax and some of the major R data structures (called vectors, matrices and data.frames).  
+
+
+<script async class="speakerdeck-embed" data-id="95cf77439df54785a9716718af8d05a0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <br>
 
