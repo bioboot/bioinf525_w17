@@ -7,7 +7,7 @@ permalink: /module3/
 
 # Module 3. Bioinformatics and Systems Biology
 
-Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  Analysis of protein-protein interactions and gene expression data. Pathways and networks, machine learning. Example applications from translational medicine and cell biology.
+Computational analysis of biological networks, OMICs data (genomics, transcriptomics, metabolomics, proteomics).  Application of advanced analysis and modeling approaches to study pathways and networks. Emphasis on using existing high throughput data sets alongside newly generated data to analyze and interpret research findings.  
 
   
 **N.B.** Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioinf525-questions) if you have not already done so. 
@@ -17,12 +17,12 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 | :-----: |:------:| :----------------------- | 
 | **3.1** | Lecture | [**Introduction to systems biology**](#3.1) | 
 |         | Lab     | [Network analysis for systems biology](#3.1) | 
-| **3.2** | Lecture | [**Epigenome data mining to understand disease predisposition**](#3.2) | 
-|         | Lab     | [Epigenome profiling and disease links](#3.2)       | 
-| **3.3** | Lecture | [**Computational clinical decision support systems**](#3.3)  | 
-|         | Lab     | [WEKA for machine learning and feature analysis](#3.2)  | 
-| **3.4** | Lecture | [**Application of systems biology to translational medicine**](#3.4) | 
-|         | Lab     | [Systems biology resources for translational medicine](#3.4)  | 
+| **3.2** | Lecture | [**High throughput sequencing methods in systems biology**](#3.2) | 
+|         | Lab     | [Mapping genetic regulatory networks](#3.2)       | 
+| **3.3** | Lecture | [**Network modeling for hypothesis testing and generation**](#3.3)  | 
+|         | Lab     | [Modeling and inference of metabolic networks](#3.2)  | 
+| **3.4** | Lecture | [**Machine learning approaches in systems biology**](#3.4) | 
+|         | Lab     | [Application of machine learning to biological network analysis](#3.4)  | 
 
 <br>
 
@@ -31,33 +31,22 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 <br>
 
 #### Lecture (3-1):	**Introduction to systems biology**  
-- **Instructor**: 	Dr. Gerry Higgins  
+- **Instructor**: 	Dr. Peter Freddolino  
 - **Time**: 		Mar 21 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
-What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
+What are bioinformatics and systems biology?  Major areas of research and application.  
 - **Material**:  
-[Lecture Slides]({{ site.baseurl }}/class-material/lecture3-1.pdf)  
-Readings  
-[A glutamatergic network mediates lithium response in bipolar disorder](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/A%20glutamatergic%20network%20mediates%20lithium%20response%20in%20bipolar%20disorder.pdf),  
-[Cold Spring Harb Perspect Biol-2015-Dekker-](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Cold%20Spring%20Harb%20Perspect%20Biol-2015-Dekker-.pdf),  
-[Ten Years of Pathway Analysis](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Ten%20Years%20of%20Pathway%20Analysis.pdf)  
 
 
 <br>
 
 #### Lab (3-1): 	**Network analysis for systems biology**  
-- **Instructor**: 	Marci Brandenburg and Dr. Viji Nair  
+- **Instructor**: 	Dr. Peter Freddolino  
 - **Time**: 		2:30 – 4:00 PM, Mar 23 (Thursday)  
 - **Topics**:  
-Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape, including the MetScape app, in addition to ConceptGen.  
+Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape (including the MetScape app and the RCytoscape package) and analysis with igraph.  
 - **Material**:  
-[Lab slides]({{ site.baseurl }}/class-material/Bfx525_2016_Cytoscape_Final.pptx)  
-Supporting Files:  
-[Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomedata.txt),  
-[aminoacids.output.pcor_lasso.17of23.csv]({{ site.baseurl }}/class-material/aminoacids.output.pcor_lasso.17of23.csv),  
-[cytoscapeoverview.txt]({{ site.baseurl }}/class-material/cytoscapeoverview.txt),  
-[metscape_test.csv]({{ site.baseurl }}/class-material/metscape_test.csv)  
-[Muddy point assessment](https://docs.google.com/forms/d/1WUDoBCwzH8wNF46rDNLtTw-DVUqJDu9rt5XTfwPj2mA/viewform)  
+  
 
 <br>
 
@@ -65,27 +54,22 @@ Supporting Files:
 <a name="3.2"></a>
 <br>
 
-#### Lecture (3-2): **Epigenome data mining to understand disease predisposition**  
-- **Instructor**: 	Dr. Stephen Parker  
+#### Lecture (3-2): **High throughput sequencing methods in systems biology**  
+- **Instructor**: 	Dr. Peter Freddolino  
 - **Time**: 		Mar 28 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
-For decades, substantial research efforts have focused on the <2% of the human genome that encodes proteins. Recent epigenome-based functional genomic analyses and genome-wide association studies (GWAS) together implicate non-coding DNA regulatory elements as critical regions influencing gene expression, risk for common diseases, variation in physiological traits, and evolution across species. Because they represent the convergent point of evolutionary, genetic, developmental, and environmental inputs, basal epigenomic signatures and their dynamic changes are central to understanding biological function. This lecture will explore epigenomic assays and bioinformatic analyses and how these approaches can help untangle disease mechanisms. 
+Overview of high throughput sequencing-based methods used to investigate biological networks, along with an introduction to databases and analysis considerations for each. 
 - **Material**:  
-[Lecture Slides]({{ site.baseurl }}/class-material/lecture3-2.pptx)  
-Readings  
-[Integrative analysis of 111 reference human epigenomes](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Integrative%20analysis%20of%20111%20reference%20human%20epigenomes.pdf)  
 
 
 <br>
 
-#### Lab (3-2): 	**Epigenome profiling and disease links**  
-- **Instructor**: 	Dr. Stephen Parker  
+#### Lab (3-2): 	**Mapping genetic regulatory networks using high-throughput sequencing**  
+- **Instructor**: 	Dr. Peter Freddolino  
 - **Time**: 2:30 – 4:00 PM, Mar 30 (Thursday)  
 - **Topics**:  
-Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
+Finding and interpreting RNA-seq and ChIP-seq data sets to study regulatory networks, including identification of differentially expressed genes, location of transcription factor binding sites, and inference of regulatory motifs.
 - **Material**:  
-[Lab Link](https://github.com/ParkerLab/bioinf525)  
-[Muddy point assessment](https://docs.google.com/forms/d/1P3zEXxybasJWttziZ9F_osiFaM1418Zu0vppH--GtoM/viewform)  
 
 
 <br>
@@ -94,27 +78,22 @@ Students will learn how to computationally process epigenomic data, create inter
 <a name="3.3"></a>
 <br>
 
-#### Lecture (3-3): **Computational clinical decision support systems** 
-- **Instructor**:   Dr. Kayvan Najarian  
+#### Lecture (3-3): **Network modeling for hypothesis testing and generation** 
+- **Instructor**:   Dr. Peter Freddolino  
 - **Time**:         Apr 4 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
-Introduction to computational clinical decision support systems. Machine learning and its application to biomedical informatics.
+Conceptual understanding of kinetic models and constraint-based models of metabolic networks; approaches for translating biochemical schematics into quantitative frameworks.
 - **Material**:  
-Lecture Slides: [PDF]({{ site.baseurl }}/class-material/Systems Biology for Clinical Decision Support Systems I v4.pdf), [PPTX]({{ site.baseurl }}/class-material/Systems Biology for Clinical Decision Support Systems I v4.pptx)  
 
 
 <br>
 
-#### Lab (3-3):     **WEKA for machine learning and feature analysis**  
-- **Instructor**:   Dr. Kayvan Najarian  
+#### Lab (3-3):     **Modeling and inference of metabolic networks**  
+- **Instructor**:   Dr. Peter Freddolino  
 - **Time**:         2:30 – 4:00 PM, Apr 6 (Thursday)  
 - **Topics**:  
-Introduction to WEKA, using machine learning methods such as SVM, Random Forest, Neural Networks for simple examples in systems biology, using WEKA for feature extraction and analysis.  
+Students will learn how to represent simple metabolic pathways in SBML, and use the sybil R package to simulate the effects of mutations in a model network.  
 - **Material**:  
-[Lab worksheet]  
-Supporting Files:  
-[TestData525 info gain filtered.csv]({{ site.baseurl }}/class-material/TestData525 info gain filtered.csv),  
-[TestData525 v2.csv]({{ site.baseurl }}/class-material/TestData525 v2.csv)  
 
 
 <br>
@@ -123,25 +102,22 @@ Supporting Files:
 <a name="3.4"></a>
 <br>
 
-#### Lecture (3-4): **Application of systems biology to translational medicine**  
-- **Instructor**: 	Dr. Matthias Kretzler  
+#### Lecture (3-4): **Machine learning approaches in systems biology**  
+- **Instructor**: 	Dr. Peter Freddolino  
 - **Time**: 		Apr 11 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
-Integrating genome wide data sets with high-resolution clinical phenotypes, molecular marker definition, regulatory network generation in patient samples.  
+Introduction to machine learning and overview of key algorithms (linear classifier, SVM, decision trees and random forests). Existing and potential areas for application of machine learning in the analysis of biological networks.  
 - **Material**:  
-[Lecture Slides]({{ site.baseurl }}/class-material/BI525W16Lec3.4.pdf)  
+  
 
 <br>
 
-#### Lab (3-4): 	**Systems biology resources for translational medicine** 
-- **Instructor**: 	Felix Eichinger
+#### Lab (3-4): 	**Application of machine learning to biological network analysis** 
+- **Instructor**: 	Dr. Peter Freddolino
 - **Time**: 		2:30 – 4:00 PM, Apr 13 (Thursday)  
 - **Topics**:
-Introduction to web based systems biology resources including Oncomine and Nephromine.
+Overview of R modules for machine learning; comparison of a variety of approaches for predicting regulatory modules, protein function, and protein-protein interactions.
 - **Material**:  
-Lab Slides:  
-[PPTX]({{ site.baseurl }}/class-material/Gene Expression Databases_525_2016.pptx)  
-[PDF]({{ site.baseurl }}/class-material/Gene Expression Databases_525_2016.pdf)  
 
 
 <br>
