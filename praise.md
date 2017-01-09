@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /praise/
+exclude: true
 ---
 
 ### Praise for the 2015 class from official student evaluations
