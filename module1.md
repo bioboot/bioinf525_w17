@@ -60,7 +60,7 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 - **Topics**:  
 The purpose of this lab session is to introduce a range of core bioinformatics databases and associated online services whilst investigating the molecular basis of several common human disease.  
 - **Material**:  
-[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.1_w16.pdf)  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.1_w17.pdf)  
 [Muddy point assessment](http://tinyurl.com/bioinf525-lab1)  
 
 <br>
