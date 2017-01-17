@@ -42,11 +42,9 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 [Handout: Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/1OZIgvobpGWRFajUXbW5mgbDtthacMcK4BK-0_4zwHME/viewform),  
+[Answers](https://docs.google.com/forms/d/1OZIgvobpGWRFajUXbW5mgbDtthacMcK4BK-0_4zwHME/viewanalytics)  
 [Readings: PDF1]({{ site.baseurl }}/class-material/bioinformatics_review.pdf),  
 [Readings: PDF2]({{ site.baseurl }}/class-material/bioinformatics_challenges_2015.pdf),  
-
-<!--- [Answers](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Bioinf525_HomeWork_1.1_W16.pdf), --> 
-
 
   
 
@@ -62,6 +60,7 @@ The purpose of this lab session is to introduce a range of core bioinformatics d
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_1.1_w17.pdf)  
 [Muddy point assessment](http://tinyurl.com/bioinf525-lab1)  
+[Assessment Responses](https://docs.google.com/forms/d/1dsHY-N7ARbnzkvNR15mkkHol32KmflmZE7iI7EObNhQ/viewanalytics#start=publishanalytics)  
 
 <br>
 
@@ -75,7 +74,7 @@ The purpose of this lab session is to introduce a range of core bioinformatics d
 - **Topics**:  
 Homology and sequence alignments, Dynamic programming, Sequence similarity and database searching, Interpreting search results – E value, Needleman and Wunsch, Smith and Waterman, The BLAST algorithm.
 - **Material**:  
-[Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W16_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W16_small.pdf),  
+[Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W17_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W17_small.pdf),  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/1AFsMMV26wq_2k0AKQ0p5A7KFdSts1H8tOhkdoV3TUq8/viewform),  
 [Readings: PDF1]({{ site.baseurl }}/class-material/Dynamic_programming_primer.pdf),  
