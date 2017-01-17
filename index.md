@@ -20,7 +20,7 @@ The complete course is comprised of three modules covering (1) [**Foundations of
 **Schedule**:  One Tuesday lecture and one Thursday lab session per week.  A detailed **syllabus** with topic outlines is available for [**download**]({{ site.baseurl }}/class-material/BIOINF525W17-syllabus.pdf).
 
 	Lectures:	 Tuesdays 2:30 - 4:00 PM, Rm. 2062 Palmer Commons Bldg. 
-	Labs:		 Thursdays 2:30 – 4:00 PM Rm. 2036 Palmer Commons Bldg. 
+	Labs:		 Thursdays 2:30 – 4:00 PM Rm. 2062 Palmer Commons Bldg. 
 
 <br>
 **Prerequisites**: A familiarity with basic biomedical concepts and basic knowledge of computer usage.  No programing skills are needed. 
