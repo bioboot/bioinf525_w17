@@ -92,7 +92,7 @@ Homology and sequence alignments, Dynamic programming, Sequence similarity and d
 - **Topics**:  
 Aligning novel sequences with previously characterized genes or proteins provides important insights into their common attributes and evolutionary origins. In this lab session we will explore the principles underlying the computational tools that can be used to compute and evaluate sequence alignments.  
 - **Material**:  
-[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.2_w16.pdf)  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.2_w17.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1yseKhk9YbvtU1Q4OMAc1S7USCpgQcCV5NrGyBNP3Izc/viewform)  
 <br>
 
