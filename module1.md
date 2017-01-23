@@ -60,7 +60,7 @@ The purpose of this lab session is to introduce a range of core bioinformatics d
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_1.1_w17.pdf)  
 [Muddy point assessment](http://tinyurl.com/bioinf525-lab1)  
-[Assessment Responses](https://docs.google.com/forms/d/1dsHY-N7ARbnzkvNR15mkkHol32KmflmZE7iI7EObNhQ/viewanalytics#start=publishanalytics)  
+[Assessment responses](https://docs.google.com/forms/d/1dsHY-N7ARbnzkvNR15mkkHol32KmflmZE7iI7EObNhQ/viewanalytics#start=publishanalytics)  
 
 <br>
 
@@ -77,11 +77,10 @@ Homology and sequence alignments, Dynamic programming, Sequence similarity and d
 [Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W17_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W17_small.pdf),  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/1AFsMMV26wq_2k0AKQ0p5A7KFdSts1H8tOhkdoV3TUq8/viewform),  
+[Answers](https://docs.google.com/forms/d/1AFsMMV26wq_2k0AKQ0p5A7KFdSts1H8tOhkdoV3TUq8/viewanalytics),  
 [Readings: PDF1]({{ site.baseurl }}/class-material/Dynamic_programming_primer.pdf),  
-[Readings: PDF2]({{ site.baseurl }}/class-material/Fundamentals.pdf),   
+[Readings: PDF2]({{ site.baseurl }}/class-material/Fundamentals.pdf).   
 
-<!--- [Answers](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Bioinf525_HomeWork_1.2_W16.pdf)  
--->
 
 
 <br>
@@ -92,9 +91,11 @@ Homology and sequence alignments, Dynamic programming, Sequence similarity and d
 - **Topics**:  
 Aligning novel sequences with previously characterized genes or proteins provides important insights into their common attributes and evolutionary origins. In this lab session we will explore the principles underlying the computational tools that can be used to compute and evaluate sequence alignments.  
 - **Material**:  
-[Lab worksheet]({{ site.baseurl }}/class-material/lab1.2_w17.pdf)  
-[Muddy point assessment](https://docs.google.com/forms/d/1yseKhk9YbvtU1Q4OMAc1S7USCpgQcCV5NrGyBNP3Izc/viewform)  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab1.2_w17.pdf),  
+[Muddy point assessment](https://docs.google.com/forms/d/1yseKhk9YbvtU1Q4OMAc1S7USCpgQcCV5NrGyBNP3Izc/viewform),  
+[Assessment responses](https://docs.google.com/forms/d/1yseKhk9YbvtU1Q4OMAc1S7USCpgQcCV5NrGyBNP3Izc/viewanalytics).  
 <br>
+
 
 ---
 <a name="1.3"></a>
@@ -106,12 +107,12 @@ Aligning novel sequences with previously characterized genes or proteins provide
 - **Time**: 		Jan 24 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Major goals, current research challenges, and application areas of structural bioinformatics. Key concepts covered include: Sequence-structure-function relationships; Energy landscapes; Physics and knowledge based modeling approaches for describing the structure, energetics and dynamics of biomolecules computationally. 
-[Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W16_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W16_small.pdf),  
+[Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W17_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W17_small.pdf),  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/19qbgDeSSkQ1532wKStlgOyBM7mxCoOYi8OyQEsLe38o/viewform),  
 [Readings: PDF1](http://bioinformatics.oxfordjournals.org/content/early/2014/12/06/bioinformatics.btu769.full.pdf),  
 [Readings: PDF2]({{ site.baseurl }}/class-material/StructurePrediction.pdf),   
-[Readings: PDF3]({{ site.baseurl }}/class-material/Biomolecular%20Simulation-%20A%20Computational%20Microscope%20for%20Molecular%20Biology.pdf),  
+[Readings: PDF3]({{ site.baseurl }}/class-material/Biomolecular_Simulation.pdf),  
 [Readings: PDF4]({{ site.baseurl }}/class-material/DrugDesign.pdf),   
 
 <!--- [Answers](https://docs.google.com/forms/d/19qbgDeSSkQ1532wKStlgOyBM7mxCoOYi8OyQEsLe38o/viewanalytics), [Answers with annotation]({{ site.baseurl }}/class-material/Bioinf525_HomeWork_1.3_W16.pdf),
