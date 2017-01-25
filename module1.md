@@ -128,11 +128,12 @@ Major goals, current research challenges, and application areas of structural bi
 - **Topics**:  
 The RCSB PDB resource.  Interactive biomolecular structure visualization with VMD.  Structural analysis of protein families and prediction of protein flexibility with Bio3D.  In silico docking and virtual screening strategies for drug design.
 - **Material**:  
-[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.3_w16.pdf)  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.3_w17.pdf)  
 Supporting Files: [indinavir.pdbqt]({{ site.baseurl }}/class-material/indinavir.pdbqt), 
 [config.txt]({{ site.baseurl }}/class-material/config.txt), 
 [log.txt]({{ site.baseurl }}/class-material/log.txt), 
-[all.pdbqt]({{ site.baseurl }}/class-material/all.pdbqt)  
+[all.pdbqt]({{ site.baseurl }}/class-material/all.pdbqt), 
+[results.pdb]({{ site.baseurl }}/class-material/results.pdb).   
 [Muddy point assessment](https://docs.google.com/forms/d/1D4lQC8m3UQmtaC-PWTJs2y9SBIU100cP2HWBsBP3jg8/viewform)  
 <br>
 
