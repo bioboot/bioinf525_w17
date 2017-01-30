@@ -146,8 +146,8 @@ Supporting Files: [indinavir.pdbqt]({{ site.baseurl }}/class-material/indinavir.
 - **Time**: 		Jan 31 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 High throughput sequencing technologies, biological applications and bioinformatics analysis methods.  Web interfaces to genome databases at Ensembl and UCSC.  
-[Lecture Slides](https://umich.app.box.com/s/0bn5g88v6xp9id6d3j595b22ukb71uvm), 
-[Large PDF]({{ site.baseurl }}/class-material/lecture1-4_525_W16_large.pdf).  
+[Lecture Slides]({{ site.baseurl }}/class-material/lecture1-4_525_W17.pptx), 
+[Large PDF]({{ site.baseurl }}/class-material/lecture1-4_525_W17_small.pdf).  
 [Readings: PDF1]({{ site.baseurl }}/class-material/HTSequencing_review.pdf)  
 [Readings: PDF2]({{ site.baseurl }}/class-material/nrg2626.pdf)  
 [Readings: PDF3]({{ site.baseurl }}/class-material/Charting_a_course_for_genomic_medicine_from_base_pairs_to_bedside_Nature2011.pdf)  
