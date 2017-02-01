@@ -58,13 +58,11 @@ Introduction to R, probability distributions, quantifying central values and var
 - **Material**:  
 [PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R.pdf), [Video](https://www.youtube.com/watch?v=BlFUKYwwksk)  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab2.1_w16.pdf)  
-[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab1%20with%20Key.pdf)  
 Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
 Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker (TROPHY. S. Julius 2006)](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Feasibility%20of%20Treating%20Prehypertension%20with%20an%20Angiotensin-Receptor%20Blocker_TROPHY.%20S.%20Julius%202006_.pdf), [R Data Types]({{ site.baseurl }}/class-material/Data Types.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1cMIZVNnQj5YUmo_Dl3hPqg4bPx3tP0LoKkqj5WpzP6k/viewform)  
 - **Homework**:  
 [Homework Assignment 1]({{ site.baseurl }}/class-material/525W16_module2_HW1.doc)  
-[Homework Assignment 1 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW1-key.pdf)  
 
 <br>
 
@@ -88,12 +86,10 @@ Estimation and standard errors, standard errors for means, correlations, and log
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.2_w16.pdf)  
-[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab2%20with%20Key.pdf)  
 Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
 [Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
 - **Homework**:  
 [Homework Assignment 2]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
-[Homework Assignment 2 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW2-key.pdf)  
 
 
 <br>
@@ -117,11 +113,9 @@ Pearson correlation, t-test, odds ratios, discussion of a research article
 Tests based on Pearson correlation t-test, and log odds ratios
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.3_w16.pdf)  
-[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab3%20with%20Key.pdf)  
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/1P_ldx1K8BJUr2V9ahi4HXymnjvrXXv-hMiopHrkQjIs/viewform)  
 - **Homework**:  
 [Homework Assignment 3]({{ site.baseurl }}/class-material/525W16_module2_HW3.doc)  
-[Homework Assignment 3 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW3%20-%20KEY.pdf)  
 
 <br>
 
@@ -144,11 +138,9 @@ Single and multiple variable linear regression, Bonferroni correction, power for
 Fitting regression models for prediction and effect estimation, inference for regression effects, R^2, diagnostics, comparing models
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.4_w16.pdf)  
-[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab4%20with%20Key.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1tpTEqpT837pSm_8NEty3vUE-7nIMDY3_nx3mGlk5qmg/viewform)  
 - **Homework**:  
 [Homework Assignment 4]({{ site.baseurl }}/class-material/525W16_module2_HW4.docx)  
-[Homework Assignment 4 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW4%20Key.pdf)  
 
 <br>
 
@@ -171,7 +163,6 @@ Clustering methods, Multidimensional scaling and Principal component analysis
 - **Topics**:
 Multivariate data, Heat maps and dendrograms, clustering methods, principal component analysis 
 - **Material**:  
-[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/lab_2.5_with_key.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1B2xIMitIxIhYxkvn_kZ4eKDREhZksoGwBX6NtzWIRQE/viewform)
 
 <br>
