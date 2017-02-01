@@ -160,7 +160,7 @@ High throughput sequencing technologies, biological applications and bioinformat
 - **Topics**:
 The Galaxy web-based platform for genomic data analysis. Manipulation and analysis of next generation sequencing data sets.
 - **Material**:  
-[Lab worksheet]({{ site.baseurl }}/class-material/BIOINF525_Lab4_2016.pdf)  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.4_w17.pdf)  
 Supporting Files: [HG00109_1.fastq]({{ site.baseurl }}/class-material/HG00109_1.fastq), [HG00109_2.fastq]({{ site.baseurl }}/class-material/HG00109_2.fastq), [genes.chr17.gtf]({{ site.baseurl }}/class-material/genes.chr17.gtf).  
 [Muddy point assessment](https://docs.google.com/forms/d/1tS53PWllOQbMYZl7Z19pZB1iyBs1JSpYo2y1V_Hfi0s/viewform).  
 
