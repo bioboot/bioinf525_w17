@@ -56,7 +56,7 @@ We will be using R throughout this module to demonstrate data analyses concepts 
 - **Topics**:
 Introduction to R, probability distributions, quantifying central values and variability, quantifying association, graphical displays of data.
 - **Material**:  
-[PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R.pdf), [Video](https://www.youtube.com/watch?v=BlFUKYwwksk)  
+[PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R_w17.pdf), [Video](https://www.youtube.com/watch?v=BlFUKYwwksk)  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab2.1_w17.pdf)  
 Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.csv)  
 Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker (TROPHY. S. Julius 2006)]({{ site.baseurl }}/class-material/Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker TROPHY (S. Julius 2006).pdf), [R Data Types]({{ site.baseurl }}/class-material/Data Types.pdf)  
