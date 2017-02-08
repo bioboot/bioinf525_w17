@@ -57,12 +57,12 @@ We will be using R throughout this module to demonstrate data analyses concepts 
 Introduction to R, probability distributions, quantifying central values and variability, quantifying association, graphical displays of data.
 - **Material**:  
 [PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R.pdf), [Video](https://www.youtube.com/watch?v=BlFUKYwwksk)  
-[Lab worksheet]({{ site.baseurl }}/class-material/lab2.1_w16.pdf)  
-Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
-Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker (TROPHY. S. Julius 2006)](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Feasibility%20of%20Treating%20Prehypertension%20with%20an%20Angiotensin-Receptor%20Blocker_TROPHY.%20S.%20Julius%202006_.pdf), [R Data Types]({{ site.baseurl }}/class-material/Data Types.pdf)  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab2.1_w17.pdf)  
+Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.CSV)  
+Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker (TROPHY. S. Julius 2006)]({{ site.baseurl }}/class-material/Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker TROPHY (S. Julius 2006).pdf), [R Data Types]({{ site.baseurl }}/class-material/Data Types.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1cMIZVNnQj5YUmo_Dl3hPqg4bPx3tP0LoKkqj5WpzP6k/viewform)  
 - **Homework**:  
-[Homework Assignment 1]({{ site.baseurl }}/class-material/525W16_module2_HW1.doc)  
+[Homework Assignment 1]({{ site.baseurl }}/class-material/525W17_module2_HW1.doc)  
 
 <br>
 
@@ -86,7 +86,7 @@ Estimation and standard errors, standard errors for means, correlations, and log
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.2_w16.pdf)  
-Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
+Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.CSV)  
 [Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
 - **Homework**:  
 [Homework Assignment 2]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
