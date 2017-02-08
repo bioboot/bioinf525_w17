@@ -58,7 +58,7 @@ Introduction to R, probability distributions, quantifying central values and var
 - **Material**:  
 [PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R.pdf), [Video](https://www.youtube.com/watch?v=BlFUKYwwksk)  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab2.1_w17.pdf)  
-Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.CSV)  
+Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.csv)  
 Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker (TROPHY. S. Julius 2006)]({{ site.baseurl }}/class-material/Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker TROPHY (S. Julius 2006).pdf), [R Data Types]({{ site.baseurl }}/class-material/Data Types.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1cMIZVNnQj5YUmo_Dl3hPqg4bPx3tP0LoKkqj5WpzP6k/viewform)  
 - **Homework**:  
@@ -86,7 +86,7 @@ Estimation and standard errors, standard errors for means, correlations, and log
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.2_w16.pdf)  
-Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.CSV)  
+Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.csv)  
 [Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
 - **Homework**:  
 [Homework Assignment 2]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
