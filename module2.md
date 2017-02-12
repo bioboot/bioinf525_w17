@@ -76,7 +76,7 @@ Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor B
 - **Topics**:
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, tests involving means, correlations, and log odds ratios, power.
 - **Material**:  
-[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.2.pdf)  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec2.2.pdf)  
 
 <br>
 
