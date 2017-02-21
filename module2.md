@@ -103,7 +103,7 @@ Dataset [TROPHY.csv]({{ site.baseurl }}/class-material/TROPHY.csv)
 - **Topics**:
 Pearson correlation, t-test, odds ratios, discussion of a research article
 - **Material**:  
-[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.3.pdf)  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec2.3.pdf)  
 
 <br>
 
