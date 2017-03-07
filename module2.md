@@ -114,7 +114,7 @@ Tests based on Pearson correlation t-test, and log odds ratios
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.3_w16.pdf)  
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/1P_ldx1K8BJUr2V9ahi4HXymnjvrXXv-hMiopHrkQjIs/viewform)  
-- **Homework** (Due 3/9):   
+- **Homework** (Due 3/14):   
 [Homework Assignment 3]({{ site.baseurl }}/class-material/525W17_module2_HW3.doc)  
 
 <br>
