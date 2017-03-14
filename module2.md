@@ -153,7 +153,7 @@ Fitting regression models for prediction and effect estimation, inference for re
 - **Topics**:
 Clustering methods, Multidimensional scaling and Principal component analysis
 - **Material**:  
-[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.5.pdf)  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec2.5.pdf)  
 
 
 <br>
