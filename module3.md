@@ -36,7 +36,7 @@ Computational analysis of biological networks, OMICs data (genomics, transcripto
 - **Topics**:  
 What are bioinformatics and systems biology?  Major areas of research and application.  
 - **Material**:  
-
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec3.1.pdf)
 
 <br>
 
@@ -70,7 +70,6 @@ Overview of high throughput sequencing-based methods used to investigate biologi
 - **Topics**:  
 Finding and interpreting RNA-seq and ChIP-seq data sets to study regulatory networks, including identification of differentially expressed genes, location of transcription factor binding sites, and inference of regulatory motifs.
 - **Material**:  
-
 
 <br>
 
