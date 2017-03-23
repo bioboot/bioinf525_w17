@@ -44,7 +44,7 @@ What are bioinformatics and systems biology?  Major areas of research and applic
 - **Instructor**: 	Dr. Peter Freddolino  
 - **Time**: 		2:30 – 4:00 PM, Mar 23 (Thursday)  
 - **Topics**:  
-Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape (including the MetScape app and the RCytoscape package) and analysis with igraph.  
+Introduction to biological network analysis with cytoscape. Mapping of expression data sets onto biological networks. Network design using BioBricks. 
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab3.1_w17.pdf)  
 [Muddy point assessment](https://goo.gl/forms/7El7W1Vw0nHJPUTO2)  
