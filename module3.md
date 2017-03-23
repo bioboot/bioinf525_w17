@@ -47,6 +47,9 @@ What are bioinformatics and systems biology?  Major areas of research and applic
 Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape (including the MetScape app and the RCytoscape package) and analysis with igraph.  
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab3.1_w17.pdf)  
+[Muddy point assessment](https://goo.gl/forms/7El7W1Vw0nHJPUTO2)  
+- **Homework** (Due 3/30):  
+[Homework Assignment 1]({{ site.baseurl }}/class-material/BI525W17_HW3.1.pdf)  
 
 
 <br>
