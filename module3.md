@@ -48,7 +48,7 @@ Introduction to biological network analysis with cytoscape. Mapping of expressio
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab3.1_w17.pdf)  
 [Muddy point assessment](https://goo.gl/forms/7El7W1Vw0nHJPUTO2)  
-- **Homework** (Due 3/30):  
+- **Homework** (Due 3/30 @ 5:00pm):  
 [Homework Assignment 1]({{ site.baseurl }}/class-material/BI525W17_HW3.1.pdf)  
 
 
@@ -64,7 +64,7 @@ Introduction to biological network analysis with cytoscape. Mapping of expressio
 - **Topics**:  
 Overview of high throughput sequencing-based methods used to investigate biological networks, along with an introduction to databases and analysis considerations for each. 
 - **Material**:  
-
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec3.2.pdf)
 
 <br>
 
