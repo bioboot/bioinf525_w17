@@ -74,6 +74,8 @@ Overview of high throughput sequencing-based methods used to investigate biologi
 - **Topics**:  
 Finding and interpreting RNA-seq and ChIP-seq data sets to study regulatory networks, including identification of differentially expressed genes, location of transcription factor binding sites, and inference of regulatory motifs.
 - **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab3.2_w17.docx)  
+Supporting Files: [FastQC example]({{ site.baseurl }}/class-material/fastqc_example.pdf), [chipseq]({{ site.baseurl }}/class-material/chipseq.gr), [step_1.fastq]({{ site.baseurl }}/class-material/step_1.fastq), [step_2.fastq]({{ site.baseurl }}/class-material/step_2.fastq), [step_3.fastq]({{ site.baseurl }}/class-material/step_3.fastq), [step4.sam]({{ site.baseurl }}/class-material/step4.sam)
 
 <br>
 
