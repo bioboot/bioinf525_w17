@@ -75,7 +75,7 @@ Overview of high throughput sequencing-based methods used to investigate biologi
 Finding and interpreting RNA-seq and ChIP-seq data sets to study regulatory networks, including identification of differentially expressed genes, location of transcription factor binding sites, and inference of regulatory motifs.
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab3.2_w17.docx)  
-Supporting Files: [FastQC example]({{ site.baseurl }}/class-material/fastqc_example.pdf), [chipseq]({{ site.baseurl }}/class-material/chipseq.gr), [step_1.fastq]({{ site.baseurl }}/class-material/step_1.fastq), [step_2.fastq]({{ site.baseurl }}/class-material/step_2.fastq), [step_3.fastq]({{ site.baseurl }}/class-material/step_3.fastq), [step4.sam]({{ site.baseurl }}/class-material/step4.sam)  
+Supporting Files: [lab2_files]({{ site.baseurl }}/class-material/lab_2_files.zip)  
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/e/1FAIpQLSeJJq3dBvZMCNQuogHrX-719mFChP2H_EtwgYyLO4x5VxYctw/viewform?usp=sf_link)
 - **Homework** (Due 4/6 @ 5:00pm):  
 [Homework Assignment 2]({{ site.baseurl }}/class-material/BI525W17_HW3.2.pdf)  
