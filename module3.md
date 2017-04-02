@@ -47,6 +47,7 @@ What are bioinformatics and systems biology?  Major areas of research and applic
 Introduction to biological network analysis with cytoscape. Mapping of expression data sets onto biological networks. Network design using BioBricks. 
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab3.1_w17.pdf)  
+[Lab worksheet with key]({{ site.baseurl }}/class-material/module3_lab1_solutions.pdf)  
 [Muddy point assessment](https://goo.gl/forms/7El7W1Vw0nHJPUTO2)  
 - **Homework** (Due 3/30 @ 5:00pm):  
 [Homework Assignment 1]({{ site.baseurl }}/class-material/BI525W17_HW3.1.pdf)  
@@ -75,6 +76,7 @@ Overview of high throughput sequencing-based methods used to investigate biologi
 Finding and interpreting RNA-seq and ChIP-seq data sets to study regulatory networks, including identification of differentially expressed genes, location of transcription factor binding sites, and inference of regulatory motifs.
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab3.2_w17.docx)  
+[Lab worksheet with key]({{ site.baseurl }}/class-material/module3_lab2_solutions.docx)  
 Supporting Files: [lab2_files]({{ site.baseurl }}/class-material/lab_2_files.zip)  
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/e/1FAIpQLSeJJq3dBvZMCNQuogHrX-719mFChP2H_EtwgYyLO4x5VxYctw/viewform?usp=sf_link)
 - **Homework** (Due 4/6 @ 5:00pm):  
