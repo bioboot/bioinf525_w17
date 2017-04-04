@@ -93,7 +93,7 @@ Supporting Files: [lab2_files]({{ site.baseurl }}/class-material/lab_2_files.zip
 - **Topics**:  
 Conceptual understanding of kinetic models and constraint-based models of metabolic networks; approaches for translating biochemical schematics into quantitative frameworks.
 - **Material**:  
-
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec3.3.pdf)
 
 <br>
 
