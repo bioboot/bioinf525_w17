@@ -103,7 +103,9 @@ Conceptual understanding of kinetic models and constraint-based models of metabo
 - **Topics**:  
 Students will learn how to represent simple metabolic pathways in SBML, and use the sybil R package to simulate the effects of mutations in a model network.  
 - **Material**:  
-
+[Lab worksheet]({{ site.baseurl }}/class-material/lab3.3_w17.pdf)  
+- **Homework** (Due 4/13 @ 5:00pm):  
+[Homework Assignment 3]({{ site.baseurl }}/class-material/BI525W17_HW3.3.pdf)  
 
 <br>
 
