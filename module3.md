@@ -20,7 +20,7 @@ Computational analysis of biological networks, OMICs data (genomics, transcripto
 | **3.2** | Lecture | [**High throughput sequencing methods in systems biology**](#3.2) | 
 |         | Lab     | [Mapping genetic regulatory networks](#3.2)       | 
 | **3.3** | Lecture | [**Network modeling for hypothesis testing and generation**](#3.3)  | 
-|         | Lab     | [Modeling and inference of metabolic networks](#3.2)  | 
+|         | Lab     | [Modeling and inference of metabolic networks](#3.3)  | 
 | **3.4** | Lecture | [**Machine learning approaches in systems biology**](#3.4) | 
 |         | Lab     | [Application of machine learning to biological network analysis](#3.4)  | 
 
