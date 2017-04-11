@@ -121,7 +121,7 @@ Students will learn how to represent simple metabolic pathways in SBML, and use 
 - **Topics**:  
 Introduction to machine learning and overview of key algorithms (linear classifier, SVM, decision trees and random forests). Existing and potential areas for application of machine learning in the analysis of biological networks.  
 - **Material**:  
-  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W17Lec3.4.pdf)
 
 <br>
 
