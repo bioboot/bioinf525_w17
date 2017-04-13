@@ -131,6 +131,8 @@ Introduction to machine learning and overview of key algorithms (linear classifi
 - **Topics**:
 Overview of R modules for machine learning; comparison of a variety of approaches for predicting regulatory modules, protein function, and protein-protein interactions.
 - **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab3.4_w17.docx)  
+Supporting Files: [lab4_files]({{ site.baseurl }}/class-material/bioi_mod3_lab4_files.zip)  
 
 
 <br>
