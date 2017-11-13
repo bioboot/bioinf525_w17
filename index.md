@@ -5,6 +5,9 @@ layout: page
 <img src="class-material/Bioinf525_image_text.png" alt="Foundations of Bioinformatics and Systems Biology" class="inline" style="width: 100%; border-style: solid;"/>
 
 <br>
+Following website is for the **Winter 2017** term. A syllabus with topic outlines for **Winter 2018** is available for [**download**]({{ site.baseurl }}/class-material/bioinf525_syllabus_2018.pdf). 
+
+<br>
 Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research. 
 
 <br>
